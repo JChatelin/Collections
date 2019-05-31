@@ -1,2 +1,2 @@
-This is just the implementation of somme data structures in java. 
-I will add the implementation of more data structures and other algorithm later.
+This is just the implementation of some data structures in Java. 
+I will add more implementation of data structures and other algorithms later.
